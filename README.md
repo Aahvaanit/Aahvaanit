@@ -15,7 +15,7 @@
 - 📫 How to reach me **tripathi.aahvaanit@gmail.com**
 
 <br><br>
-<p align="center"><img  height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aahvaanit&show_icons=true&locale=en&layout=compact&theme=aura" alt="aahvaanit" /></p>
+<p align="center"><img  height="140px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aahvaanit&show_icons=true&locale=en&layout=compact&theme=aura" alt="aahvaanit" /></p>
 <br>
 
 <h3 align="center">Connect with me:</h3>
