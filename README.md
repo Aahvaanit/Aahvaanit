@@ -21,8 +21,8 @@
 <a href="https://www.youtube.com/c/aahvaanit tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aahvaanit tripathi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aahvaanit tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aahvaanit tripathi" height="30" width="40" /></a><br><br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aahvaanit&theme=aura" alt="aahvaanit" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aahvaanit&show_icons=true&locale=en&theme=aura" alt="aahvaanit" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aahvaanit&theme=aura&count_private=true" alt="aahvaanit" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aahvaanit&show_icons=true&locale=en&theme=aura&count_private=true" alt="aahvaanit" /></p>
 
 
 
@@ -35,7 +35,7 @@
 
 
 <p align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=aahvaanit&show_icons=true&locale=en&layout=compact&theme=aura" alt="aahvaanit"><br><br></p>
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=aahvaanit&show_icons=true&locale=en&layout=compact&theme=aura&count_private=true" alt="aahvaanit"><br><br></p>
 
 
 
